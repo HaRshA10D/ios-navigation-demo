@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:NavigationDemo/NavigationDemo.xcodeproj">
+      location = "self:NavigationDemo.xcodeproj">
    </FileRef>
 </Workspace>
